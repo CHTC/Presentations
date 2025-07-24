@@ -1,0 +1,22 @@
+---
+title: "Title"
+presentor: "Name of presentor or presentors"
+event: "Example name of an event"
+date: YYYY-MM-DD
+publish_on:
+  - path
+  - osg
+
+description: |
+  This is a example submission.
+  
+image:
+    path: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-webinar-preview.png"
+    alt: Webinar preview image
+
+keywords:
+  - example
+  - keyword
+
+youtube_video_id: "g1PN21vWB-Q"
+---
