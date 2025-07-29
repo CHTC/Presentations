@@ -1,3 +1,4 @@
+---
 title: 'Placement Tokens: Capability-Based Authorization for Job Placement'
 presenter: Mátyás Selmeci
 event: HTC25
@@ -17,3 +18,4 @@ youtube_video_id: AauHNkIqXJ8
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/33941/
+---

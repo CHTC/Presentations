@@ -1,3 +1,4 @@
+---
 title: State of OSG
 presenter: Frank Wuerthwein
 event: HTC25
@@ -18,3 +19,4 @@ youtube_video_id: XFpuTD5pHxo
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/34150/
+---

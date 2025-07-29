@@ -1,3 +1,4 @@
+---
 title: Navigating the PATh Forward
 presenter: Miron Livny
 event: HTC25
@@ -22,3 +23,4 @@ youtube_video_id: bhPVon8n59M
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/34149/
+---

@@ -1,3 +1,4 @@
+---
 title: 'Erik Wright''s Keynote Presentation: Biological Discovery at an Unfathomable
   Scale'
 presenter: Erik Wright
@@ -23,3 +24,4 @@ youtube_video_id: g1PN21vWB-Q
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/33498/
+---

@@ -10,9 +10,14 @@ def shorten_word_list(word_list, max_length=4):
 
 def create_slug(date, title):
     """Create a URL-friendly slug from the title."""
-    friendly_title: str = title.lower().replace(' ', '-').replace('/', '-').replace('?', '').replace('&', '').replace('\'', '').replace('"', '').replace('!', '').replace('.', '').replace(',', '').replace(':', '').replace("'", '')
+    friendly_title: str = re.sub(r'[^a-zA-Z0-9 -]','',title.lower()).replace(' ', '-')
+    print(friendly_title)
     friendly_title = '-'.join(shorten_word_list(friendly_title.split('-')))  # Limit to first 4 words
     return date + '-' + friendly_title
+
+def split_by_pipe(value):
+    """Split a string by pipe character and return a list."""
+    return [v.strip() for v in value.strip().split('|') if len(v) != 0] if value else []
 
 written_files = []
 
@@ -25,11 +30,11 @@ with open(CSV_FILE, mode='r', encoding='utf-8') as file:
         presenter_name = row['Presenter Name'].strip()
         event = row['Event'].strip()
         presentation_date = row['Presentation Date (YYYY-MM-DD'].strip()
-        publish_on = row['Publish On: path|osg|chtc|htcondor|pelican'].strip().split("|")
+        publish_on = split_by_pipe(row['Publish On: path|osg|chtc|htcondor|pelican'])
         description = row['Description'].strip()
         image_url = row['Image URL'].strip()
         alt_image = row['Alt Image'].strip()
-        keywords = row['Keywords'].strip().split("|")
+        keywords = split_by_pipe(row['Keywords'])
         video_id_or_maybe_url = row['Youtube video ID'].split()
         slides_link = row['Public slides link'].strip()
 

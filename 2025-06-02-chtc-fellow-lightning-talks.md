@@ -1,3 +1,4 @@
+---
 title: CHTC Fellow Lightning Talks
 presenter: Sandy Nayar, William Jiang, and Kashika Mahajan
 event: HTC25
@@ -17,3 +18,4 @@ youtube_video_id: ZWtOmhZQogY
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/sessions/3540/#20250602
+---

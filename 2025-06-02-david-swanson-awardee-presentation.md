@@ -1,3 +1,4 @@
+---
 title: 'David Swanson Awardee Presentation: Reconstructing Spider Webs from Behavioral
   Tracking'
 presenter: Brandi Pessman
@@ -22,3 +23,4 @@ youtube_video_id: 91Au7iGRabg
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/33499/
+---

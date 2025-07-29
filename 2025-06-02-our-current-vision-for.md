@@ -1,3 +1,4 @@
+---
 title: Our Current Vision for Trustworthy Long-Term CILogon Operations
 presenter: Jim Basney
 event: HTC25
@@ -18,3 +19,4 @@ youtube_video_id: -kv6BvWXi6U
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/33928/
+---

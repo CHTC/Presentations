@@ -1,3 +1,4 @@
+---
 title: Can I have my data... please? Authorization in Pelican
 presenter: Justin Hiemstra
 event: HTC25
@@ -20,3 +21,4 @@ youtube_video_id: nWKQzWQdfJo
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/34080/
+---

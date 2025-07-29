@@ -1,3 +1,4 @@
+---
 title: 'The Pelican in Flight: Delivering Data Services'
 presenter: Brian Bockelman
 event: HTC25
@@ -20,3 +21,4 @@ youtube_video_id: AGODoxIXHds
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/34151/
+---
