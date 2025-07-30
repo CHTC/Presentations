@@ -11,7 +11,6 @@ description: Frank Wuerthwein, OSG Executive Director,  discusses the current st
   for the future.
 image: null
 keywords:
-- HTC25
 - Facilitation
 - Mission
 youtube_video_id: XFpuTD5pHxo

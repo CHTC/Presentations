@@ -17,7 +17,6 @@ description: 'Miron Livny provides the opening remarks for HTC25. Livny discusse
   mutual trust.'
 image: null
 keywords:
-- HTC25
 - Mission
 youtube_video_id: bhPVon8n59M
 links:

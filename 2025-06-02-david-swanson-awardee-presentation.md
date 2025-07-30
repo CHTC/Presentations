@@ -16,7 +16,6 @@ description: The OSG David Swanson award is awarded each year in memory of David
   spider webs to track spider movements during web construction.
 image: null
 keywords:
-- HTC25
 - ResearchComputing
 - Biology
 youtube_video_id: 91Au7iGRabg

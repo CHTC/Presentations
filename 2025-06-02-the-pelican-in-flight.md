@@ -14,7 +14,6 @@ description: Brian Bockelman, the Pelican Platform PI, discussed what Pelican do
   (OSDF), a global deployment of the platform.
 image: null
 keywords:
-- HTC25
 - Pelican
 - OSDF
 youtube_video_id: AGODoxIXHds

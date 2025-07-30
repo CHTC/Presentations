@@ -18,7 +18,6 @@ description: Fermilab is the first High Energy Physics institution to transition
   problems are addressed.
 image: null
 keywords:
-- HTC25
 - AdminToolsandServices
 - Collaborations
 youtube_video_id: YmU3TtOPock

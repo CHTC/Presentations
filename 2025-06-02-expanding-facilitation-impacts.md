@@ -15,7 +15,6 @@ description: Christina Koch presents on facilitation impacts at HTC25. Lead Rese
   resource provider for NAIRR and building a data community.
 image: null
 keywords:
-- HTC25
 - Facilitation
 - Mission
 youtube_video_id: 83ewUOTUWBA

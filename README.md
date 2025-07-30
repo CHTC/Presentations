@@ -17,7 +17,7 @@ description: |
   This is a example submission.
   
 youtube_video_id: "g1PN21vWB-Q" # If the YouTube video ID is present, it will always use the YouTube thumbnail.
-image:                          # If there is no YouTube video ID, it will use the image for the thumbnail.
+image: # optional                 If there is no YouTube video ID, it will use the image for the thumbnail.
     path: "https://raw.githubusercontent.com/CHTC/events/main/images/trust-webinar-preview.png"
     alt: Webinar preview image
 

@@ -38,6 +38,7 @@ def convert_csv_to_yml(csv_file):
             video_id_or_maybe_url = row['Youtube video ID'].split()
             slides_link = row['Public slides link'].strip()
 
+            # Validate required fields
             if not title:
                 raise ValueError("Title is required in each row.")
             if not presenter_name:
@@ -69,6 +70,10 @@ def convert_csv_to_yml(csv_file):
             if not slides_link:
                 print(f"Warning: No slides link for title '{title}'")
                 continue
+
+            # Remove any keywords if they are the same as the event name
+            if event in keywords:
+                keywords.remove(event)
 
             slug = create_slug(presentation_date, title)
             video_id = re.sub(r'https?:\/\/(?:www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)', '', video_id_or_maybe_url[0])

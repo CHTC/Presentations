@@ -13,7 +13,6 @@ description: CHTC Fellows discuss the work and goals of their Fellows Projects  
 image: null
 keywords:
 - Fellows
-- HTC25
 youtube_video_id: ZWtOmhZQogY
 links:
 - name: Public slides

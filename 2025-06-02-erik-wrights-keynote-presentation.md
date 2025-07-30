@@ -17,7 +17,6 @@ description: Recent technological advances have revealed an enormous diversity o
   genes at an unfathomable scale.
 image: null
 keywords:
-- HTC25
 - ResearchComputing
 - Biology
 youtube_video_id: g1PN21vWB-Q
