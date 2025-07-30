@@ -16,7 +16,6 @@ image: null
 keywords:
 - HTC25
 - Pelican
-- ''
 youtube_video_id: nWKQzWQdfJo
 links:
 - name: Public slides
