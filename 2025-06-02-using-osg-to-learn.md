@@ -13,7 +13,7 @@ description: Oana Carja discusses using the OSPool and high throughput computing
   govern evolutionary processes.
 image: null
 keywords:
-- ResearchComputing
+- Research Computing
 - Biology
 youtube_video_id: y_79BF8EPxA
 links: null

@@ -13,7 +13,7 @@ description: Jason Kwan presents on the use of high-throughput computing in meta
   that require a lot of RAM.
 image: null
 keywords:
-- ResearchComputing
+- Research Computing
 - Biology
 youtube_video_id: Ug3KN6PgnNc
 links: null

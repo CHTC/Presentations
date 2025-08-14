@@ -12,7 +12,7 @@ description: Mátyás Selmeci discusses placement tokens, experimental work in t
   placement services that an Access Point provides.
 image: null
 keywords:
-- AdminToolsandServices
+- Admin Tools
 youtube_video_id: AauHNkIqXJ8
 links:
 - name: Public slides

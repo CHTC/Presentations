@@ -13,7 +13,7 @@ description: Jim Basney presents on CILogon, a 15+ year effort to enable secure 
   existing credentials.
 image: null
 keywords:
-- AdminToolsandServices
+- Admin Tools
 youtube_video_id: -kv6BvWXi6U
 links:
 - name: Public slides

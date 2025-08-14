@@ -12,7 +12,7 @@ description: Prakriti Garg presents on using throughput computing to study the g
   regulatory network using network inference and unsupervised learning
 image: null
 keywords:
-- ResearcherTalk
+- Research Computing
 - Biology
 youtube_video_id: ZQOaTbrZkxs
 links:
