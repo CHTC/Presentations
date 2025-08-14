@@ -26,7 +26,7 @@ keywords:
   - keyword
 
 links:
-  - name: Cool Video
-    value: https://youtube.com
+  - name: Presentation Slides
+    value: https://drive.google.com
 ---
 ```
