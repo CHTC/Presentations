@@ -18,7 +18,6 @@ description: Bujji Selagamsetty discusses his CHTC GPU workflow. He also noted i
 image: null
 keywords:
 - AI
-- HTC25
 - Research Computing
 - Biology
 youtube_video_id: O4kLmgBQtb8
