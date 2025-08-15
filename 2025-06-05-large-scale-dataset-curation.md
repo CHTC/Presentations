@@ -13,7 +13,6 @@ description: John Peters focuses on Feature Extraction in AI workflows and how t
 image: null
 keywords:
 - AI
-- HTC25
 - Research Computing
 - Biology
 youtube_video_id: vszAwq12xBY
