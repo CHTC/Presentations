@@ -1,5 +1,5 @@
 ---
-title: 'Supporting MicrobiologyResearch at Scale: Experiences and Perspectives'
+title: 'Supporting Microbiology Research at Scale: Experiences and Perspectives'
 presenter: Patricia Tran
 event: HTC25
 date: '2025-06-03'
@@ -16,7 +16,6 @@ keywords:
 - Facilitation
 - Biology
 - Research Computing
-- Biology
 youtube_video_id: qsX0r8ck7f4
 links:
 - name: Public slides
