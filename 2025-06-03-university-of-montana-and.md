@@ -1,7 +1,7 @@
 ---
 title: University of Montana and Contributing to the OSPool
 presenter: Michael Couso
-event: https://youtu.be/ZWtOmhZQogY
+event: HTC25
 date: '2025-06-03'
 publish_on:
 - path
@@ -13,7 +13,7 @@ description: Michael Couso, a research computing support supervisor, discussed h
   up and growing outward.
 image: null
 keywords:
-- HTC25
+- OSPool
 - Campuses
 - Facilitation
 youtube_video_id: p-_avNRxiWk
