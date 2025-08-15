@@ -22,5 +22,7 @@ keywords:
 - Workflow
 - HTCondor
 youtube_video_id: zOiYPnJmXj4
-links: null
+links:
+- name: Public Slides
+  value: https://agenda.hep.wisc.edu/event/2297/contributions/33915/
 ---
