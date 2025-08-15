@@ -23,7 +23,7 @@ image: null
 keywords:
 - Pelican
 - OSDF
-youtube_video_id: fLvZlrxEnUI
+youtube_video_id: fLvZlrxEnUI?si=Ftv3mARSrMGwhDBt
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/33818/

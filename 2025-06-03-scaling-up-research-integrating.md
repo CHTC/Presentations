@@ -19,5 +19,5 @@ keywords:
 youtube_video_id: 7i6KoYCapKU
 links:
 - name: Public slides
-- value: https://agenda.hep.wisc.edu/event/2297/contributions/33921/
+  value: https://agenda.hep.wisc.edu/event/2297/contributions/33921/
 ---

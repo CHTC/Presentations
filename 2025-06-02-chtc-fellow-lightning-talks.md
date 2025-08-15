@@ -13,6 +13,7 @@ description: CHTC Fellows discuss the work and goals of their Fellows Projects  
 image: null
 keywords:
 - Fellows
+- Pelican
 youtube_video_id: ZWtOmhZQogY
 links:
 - name: Public slides
