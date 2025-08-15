@@ -18,7 +18,7 @@ description: The Event Workflow Management System (EWMS) enables previously impr
 image: null
 keywords:
 - Research Computing
-- Collaboratons
+- Collaborations
 - Workflow
 youtube_video_id: sOvJldu4nOY
 links:

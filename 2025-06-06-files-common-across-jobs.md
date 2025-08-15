@@ -15,7 +15,7 @@ description: 'Todd Miller discusses the current tranfer logic, noting that the p
 image: null
 keywords:
 - HTCondor
-- AdminTools
+- Admin Tools
 - HTCondor
 youtube_video_id: MU-uJBsxGLU
 links: null
