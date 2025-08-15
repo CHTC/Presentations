@@ -17,5 +17,7 @@ keywords:
 - Campuses
 - Facilitation
 youtube_video_id: 7i6KoYCapKU
-links: https://agenda.hep.wisc.edu/event/2297/contributions/33921/
+links:
+- name: Public slides
+- value: https://agenda.hep.wisc.edu/event/2297/contributions/33921/
 ---
