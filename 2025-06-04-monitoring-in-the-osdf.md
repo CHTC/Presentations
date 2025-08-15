@@ -16,7 +16,7 @@ keywords:
 - Pelican
 - OSDF
 - Admin Tools
-youtube_video_id: 'NO'
+youtube_video_id:
 links:
 - name: Public slides
   value: https://agenda.hep.wisc.edu/event/2297/contributions/34368/
