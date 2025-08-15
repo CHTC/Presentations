@@ -1,5 +1,5 @@
 ---
-title: Kingfisher: Toward Explicit Space Management
+title: Kingfisher - Toward Explicit Space Management
 presenter: Justin Hiemstra
 event: HTC25
 date: '2025-06-06'
@@ -10,7 +10,7 @@ publish_on:
 - Pelican
 description: Justin Hiemstra discusses scheduled storage, the core idea we're exploring
   with Kingfisher. He further discusses Pelican and how it discovers namespaces, how
-  Local/remote policies are joined to populate a Lot DB and how XRootD tracks usage
+  Local or remote policies are joined to populate a Lot DB and how XRootD tracks usage
   statistics for a Lot DB.
 image: null
 keywords:
