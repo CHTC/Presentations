@@ -16,6 +16,7 @@ keywords:
 - Admin Tools
 youtube_video_id: MU-uJBsxGLU
 links:
-  -name: Public slides
-  value: https://agenda.hep.wisc.edu/event/2297/contributions/33942/null
+- name: Public slides
+  value: https://agenda.hep.wisc.edu/event/2297/contributions/33942/
+  
 ---
