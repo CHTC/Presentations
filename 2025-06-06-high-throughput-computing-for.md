@@ -18,7 +18,6 @@ keywords:
 - Biology
 - Research Computing
 - OSDF
-- Biology
 youtube_video_id: UFtBKB6pG1Y
 links:
 - name: Public Slides
