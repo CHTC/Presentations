@@ -16,5 +16,6 @@ keywords:
 - Admin Tools
 - HTCondor
 youtube_video_id: 5KIU_5QkAOg
-links: null
----
+links:
+- name: Public slides
+  value: https://agenda.hep.wisc.edu/event/2297/contributions/33943/
