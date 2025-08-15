@@ -1,5 +1,5 @@
 ---
-title: Kingfisher - Toward Explicit Space Management
+title: Kingfisher -  Toward Explicit Space Management
 presenter: Justin Hiemstra
 event: HTC25
 date: '2025-06-06'
@@ -19,5 +19,5 @@ keywords:
 youtube_video_id: zOiYPnJmXj4
 links:
 - name: Public Slides
- value: https://agenda.hep.wisc.edu/event/2297/contributions/34081/
+  value: https://agenda.hep.wisc.edu/event/2297/contributions/34081/
 ---
