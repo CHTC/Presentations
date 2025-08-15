@@ -1,5 +1,5 @@
 ---
-title: 'Kingfisher: Toward Explicit Space Management'
+title: Kingfisher: Toward Explicit Space Management
 presenter: Justin Hiemstra
 event: HTC25
 date: '2025-06-06'
