@@ -21,6 +21,6 @@ keywords:
 - Biology
 youtube_video_id: UFtBKB6pG1Y
 links:
-- Name: Public Slides
-  Value: https://agenda.hep.wisc.edu/event/2297/contributions/34409/
+- name: Public Slides
+  value: https://agenda.hep.wisc.edu/event/2297/contributions/34409/
 ---
