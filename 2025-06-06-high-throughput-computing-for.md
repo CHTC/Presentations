@@ -20,5 +20,7 @@ keywords:
 - OSDF
 - Biology
 youtube_video_id: UFtBKB6pG1Y
-links: null
+links:
+- Name: Public Slides
+  Value: https://agenda.hep.wisc.edu/event/2297/contributions/34409/
 ---
