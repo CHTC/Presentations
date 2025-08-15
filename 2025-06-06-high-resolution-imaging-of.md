@@ -16,12 +16,14 @@ description: "Nickolas Pingel science he discusses are the direct result of the 
   \ the research of radio astronomers which focuses on light emitted in the radio\
   \ regime. Pingel notes that the early results from these surveys are ushering in\
   \ a new observational regime for measuring the thermodynamics of the CNM across\
-  \ a diverse range of astrophysical environments"
+  \ a diverse range of astrophysical environments."
 image: null
 keywords:
 - Collaborations
 - Astronomy
 - Research Computing
 youtube_video_id: SWmgvQmrHDM
-links: null
+links:
+- name: Public slides
+- value: https://agenda.hep.wisc.edu/event/2297/contributions/34347/
 ---
