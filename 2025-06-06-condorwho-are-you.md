@@ -14,7 +14,6 @@ image: null
 keywords:
 - HTCondor
 - Admin Tools
-- HTCondor
 youtube_video_id: 5KIU_5QkAOg
 links:
 - name: Public slides
