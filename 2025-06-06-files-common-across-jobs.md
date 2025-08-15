@@ -8,7 +8,7 @@ publish_on:
 - osg
 - htcondor
 description: Todd Miller discusses the current tranfer logic, noting that the present
-  mechanism will be released in 24.9, effectively without a UI/UX. The next step, the shiny future plans, for 24.10, is to make common file transfer
+  mechanism will be released in 24.9, effectively without a UI/UX. The next step, the shiny future plans for 24.10, is to make common file transfer
   as observable as input file transfer.
 image: null
 keywords:
