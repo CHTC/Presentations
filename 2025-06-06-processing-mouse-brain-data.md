@@ -19,5 +19,7 @@ keywords:
 - Research Computing
 - OSDF
 youtube_video_id: NPHlPkiNYEs
-links: null
+links:
+- name: Public Slides
+- value: https://agenda.hep.wisc.edu/event/2297/contributions/34169/
 ---
