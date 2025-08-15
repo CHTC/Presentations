@@ -18,7 +18,6 @@ description: Ariana Negreiro disusses the Digital Livestock Lab at the UW-Madiso
 image: null
 keywords:
 - AI
-- HTC25
 - Research Computing
 - Biology
 youtube_video_id: YT2mHKkCKwk
