@@ -16,7 +16,6 @@ description: Sameer D'Costa, a scientist with the Computational Biology Group at
 image: null
 keywords:
 - AI
-- HTC25
 - Research Computing
 - Biology
 youtube_video_id: 1PUctfQMAzo
