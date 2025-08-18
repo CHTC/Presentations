@@ -3,6 +3,7 @@ title: Monitoring in the OSDF
 presenter: Patrick Brophy
 event: HTC25
 date: '2025-06-04'
+published: false
 publish_on:
 - path
 - osg
