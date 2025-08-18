@@ -22,10 +22,6 @@ description: We present the initial design and proposed implementation for a ser
   the role of HTCondor as the common scheduler and workload manager used to distribute
   the inference workload across ARA and beyond. We also discuss some of the unique
   challenges in deploying HTCondor on ARA.
-image:
-  path: 'ARA Distributed Inference Experiments: Flying HTCondor Over a Field of Wireless
-    Dreams presented by Martin Kandes'
-  alt: null
 keywords:
 - AI
 - Workflow
