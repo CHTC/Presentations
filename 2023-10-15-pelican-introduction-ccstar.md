@@ -2,7 +2,7 @@
 title: Use cases for the Open Science Data Federation
 presenter: Brian Bockelman
 event: CC* PI Workshop 2023
-date: '2025-10-15'
+date: '2023-10-15'
 publish_on:
 - pelican
 image:
