@@ -7,7 +7,7 @@ publish_on:
 - pelican
 image:
   path: https://raw.githubusercontent.com/CHTC/presentations/main/images/using-research-computing.png
-  alt: Dreaming Big: Using Research Computing to Advance Your Science
+  alt: "Dreaming Big: Using Research Computing to Advance Your Science"
 keywords:
 - Pelican
 - OSDF
