@@ -1,5 +1,5 @@
 ---
-title: Dreaming Big\: Using Research Computing to Advance Your Science
+title: "Dreaming Big: Using Research Computing to Advance Your Science"
 presenter: Brian Bockelman
 event: null
 date: '2023-12-04'
