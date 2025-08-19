@@ -1,5 +1,5 @@
 ---
-title: Introducing Pelican: Advancing Science by Delivering Data
+title: "Introducing Pelican: Advancing Science by Delivering Data"
 presenter: Brian Bockelman
 event: null
 date: '2024-02-02'
@@ -7,7 +7,7 @@ publish_on:
 - pelican
 image:
   path: https://raw.githubusercontent.com/CHTC/presentations/main/images/introducing-pelican-2024.png
-  alt: Introducing Pelican: Advancing Science by Delivering Data
+  alt: "Introducing Pelican: Advancing Science by Delivering Data"
 keywords:
 - Pelican
 - OSDF

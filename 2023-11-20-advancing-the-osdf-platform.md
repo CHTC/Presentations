@@ -1,5 +1,5 @@
 ---
-title: Pelican: Advancing the Open Science Data Federation Platform
+title: "Pelican: Advancing the Open Science Data Federation Platform"
 presenter: Justin Hiemstra
 event: null
 date: '2023-11-20'
@@ -7,7 +7,7 @@ publish_on:
 - pelican
 image:
   path: https://raw.githubusercontent.com/CHTC/presentations/main/images/advancing-the-osdf-platform.png
-  alt: Technical Details for Integration with the Open Science Data Federation
+  alt: Advancing the OSDF Platform
 keywords:
 - Pelican
 - OSDF
