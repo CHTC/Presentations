@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-description: Brian Bockelman presents on the value add for CICI PI's via the OSDF and Pelican.
+description: Brian Bockelman, PI of the Pelican Platform (https://pelicanplatform.org/), describes how the OSDF can partner with CICI PIs (and other producers of research datasets) to share their data and build a community of users, using the OSDF as a platfrom that can control data access, track data access and distribute data to individuals and computing systems.
 image:
   path: https://raw.githubusercontent.com/CHTC/presentations/main/images/cici-osdf-presentation.png
   alt: OSDF CICI Presentation First Slide

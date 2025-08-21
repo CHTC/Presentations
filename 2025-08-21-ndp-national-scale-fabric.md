@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-description: Presentation on value add for CICI PI's using the National Data Platform.
+description: Ilkay Altintas, PI of the National Data Platform (https://nationaldataplatform.org/), shares how the NDP serves as a central organizing point for different datasets by providing cataloguing and search functionality.
 image:
   path: https://raw.githubusercontent.com/CHTC/presentations/main/images/ndp-cici-presentation.png
   alt: NDP CICI Presentation First Slide
