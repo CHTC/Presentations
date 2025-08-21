@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-description: Presentation on value add for CICI PI's using the National Data Platform
+description: Presentation on value add for CICI PI's using the National Data Platform.
 image:
   path: https://raw.githubusercontent.com/CHTC/presentations/main/images/ndp-cici-presentation.png
   alt: NDP CICI Presentation First Slide
