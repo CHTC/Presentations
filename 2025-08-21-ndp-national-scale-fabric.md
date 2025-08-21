@@ -2,7 +2,7 @@
 title: "National Data Platform: CICI National Scale Data Fabric Presentation"
 presenter: Ilkay Altintas
 event: CICI Presentation Series
-date: '2025-08-21'
+date: '2025-08-21 13:00:00'
 publish_on:
 - path
 - osg

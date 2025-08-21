@@ -2,7 +2,7 @@
 title: "Dear CICI PI: Let's Be Partners"
 presenter: Brian Bockelman
 event: CICI Presentation Series
-date: '2025-08-21'
+date: '2025-08-21 12:00:00'
 publish_on:
 - path
 - osg
