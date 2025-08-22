@@ -15,7 +15,7 @@ keywords:
 - Pelican
 - OSDF
 - Data
-youtube_video_id:
+youtube_video_id: iKQYJwIFmHo
 links:
   - name: Public slides (pdf)
     value: https://s3.web-assets.chtc.io/presentations/cici-week-one/CICI-OSDF-21Aug2025.pdf
