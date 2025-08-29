@@ -19,6 +19,4 @@ youtube_video_id: lTDM-MdbDNU
 links:
   - name: Public slides (pdf)
     value: https://s3.web-assets.chtc.io/presentations/cici-week-one/NDP-CICI-21August2025.pdf
-  - name: Public slides (pptx)
-    value: https://s3.web-assets.chtc.io/presentations/cici-week-one/NDP-CICI-21August2025.pptx
 ---
