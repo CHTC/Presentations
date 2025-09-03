@@ -8,7 +8,7 @@ publish_on:
 - osg
 - htcondor
 description: 
-keywords:
+keywords: []
 youtube_video_id: 
 links:
   - name: Public slides (ppf)
