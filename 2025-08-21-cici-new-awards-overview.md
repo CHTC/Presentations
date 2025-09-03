@@ -7,6 +7,9 @@ publish_on:
 - path
 - osg
 - htcondor
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/cici-new-awards-image.png
+  alt: CICI New Awards First Slide Preview
 description: 
 keywords: []
 youtube_video_id: 
