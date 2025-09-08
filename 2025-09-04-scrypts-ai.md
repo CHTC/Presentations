@@ -2,7 +2,7 @@
 title: SCRYPTS-AI
 presenter: Teodora Baluta
 event: CICI Presentation Series
-date: '2025-08-28 13:00:00'
+date: '2025-09-04 13:00:00'
 publish_on:
 - path
 - osg
