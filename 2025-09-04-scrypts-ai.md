@@ -14,5 +14,6 @@ keywords:
 - Data
 youtube_video_id: 6kjUFSOehu4
 links:
-
+- name: Public slides ( PPTX )
+  value: https://s3.web-assets.chtc.io/presentations/cici-week-three/scrypts-ai.pptx
 ---
