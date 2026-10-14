@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 description: John Peters focuses on Feature Extraction in AI workflows and how to
   leverage CHTC using small zips, Snakemake and caching.
 image: null

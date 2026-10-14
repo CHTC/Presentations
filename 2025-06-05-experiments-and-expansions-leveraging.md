@@ -8,7 +8,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 description: Ian Ross discussed the ML PATh supplement to profile the effects of training
   on inference on distributed, hetergeneous capacity, Ross talks about the HTCondor's
   Annex integration with NAIRR sites and use of some new DAG features that could simplify

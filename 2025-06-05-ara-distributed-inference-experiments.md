@@ -8,7 +8,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 description: We present the initial design and proposed implementation for a series
   of long-baseline, distributed inference experiments leveraging ARA --- a platform
   for advanced wireless research that spans approximately 500 square kilometers near

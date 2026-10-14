@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 description: Pegasus is a widely used scientific workflow management system built
   on top of HTCondor DAGMan. This talk will highlight how Pegasus is deployed within
   the NSF ACCESS ecosystem and the NAIRR Pilot. We will cover access point deployments,

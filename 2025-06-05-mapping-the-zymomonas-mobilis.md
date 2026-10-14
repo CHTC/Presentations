@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 description: Sameer D'Costa, a scientist with the Computational Biology Group at the
   Great Lakes Bioenergy Research Center, is investigating  Zymomonas mobilis (bacteria)
   that is really good at turning sugar into alcohol and could be engineered for industrial

@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 description: 'Conor Bendett shares about his work using HTC for comparative genonimcs
   for large public datasets. He further discusses CHTC and HTCondor and his experience:
   noting that there are lots of pipelining small tools; not always the easiest to

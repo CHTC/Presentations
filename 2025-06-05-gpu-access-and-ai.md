@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 description: Amber Lim discusses how to run GPU jobs in CHTC and the OSPool, the researcher-to-AI-workflow-proficiency
   pipeline, and what you should consider during development.
 image: null
