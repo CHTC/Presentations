@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 description: Bujji Selagamsetty discusses his CHTC GPU workflow. He also noted improvements
   to CHTC Flow, including HTChirp to poll job ad information and self-scheduling job
   length and device specific tuning. In his current work he asks what are the regions

@@ -8,7 +8,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 - Pelican
 description: Ariana Negreiro disusses the Digital Livestock Lab at the UW-Madison
   Dept of Animal and Dairy Sciences which focuses on research applications of ML and

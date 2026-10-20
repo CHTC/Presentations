@@ -7,7 +7,7 @@ publish_on:
 - path
 - osg
 - htcondor
-- CHTC
+- chtc
 description: Aydan Bailey discussed getting started with CHTC for his research, his
   use of CHTC guides and Offie hours and the challenges setting up Docker image for
   running custom software. Bailey also dsicussed the advanges of the ResearchDrive
