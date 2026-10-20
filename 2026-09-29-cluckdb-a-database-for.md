@@ -4,7 +4,7 @@ presenter: "Brian Paul Bockelman"
 event: "European HTCondor Workshop 2026"
 date: '2026-09-29'
 publish_on: []
-description: null
+description: Brian Bockelman discusses HTCondorDB, an SQL database for ClassAds. He explains some of the associated challenges, gives a walkthrough of the features, and does a demo.
 image: null
 keywords:
   - Admin Tools
