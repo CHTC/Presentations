@@ -4,7 +4,7 @@ presenter: "Todd Tannenbaum"
 event: "European HTCondor Workshop 2026"
 date: '2026-10-02'
 publish_on: []
-description: null
+description: Todd Tannenbaum discusses HTCSS support for common input files, including current and upcoming changes.
 image: null
 keywords:
   - Data
