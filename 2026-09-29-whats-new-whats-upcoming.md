@@ -4,7 +4,7 @@ presenter: "Todd Tannenbaum"
 event: "European HTCondor Workshop 2026"
 date: '2026-09-29'
 publish_on: []
-description: null
+description: Todd Tannenbaum presents on new and upcoming features for the HTCondor Software Suite.
 image: null
 keywords:
   - Admin Tools
