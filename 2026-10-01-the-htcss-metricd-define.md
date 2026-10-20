@@ -4,7 +4,7 @@ presenter: "Todd Tannenbaum"
 event: "European HTCondor Workshop 2026"
 date: '2026-10-01'
 publish_on: []
-description: null
+description: Todd Tannenbaum presents on the HTCSS MetricD, including engine configuration, with several examples.
 image: null
 keywords:
   - Admin Tools
