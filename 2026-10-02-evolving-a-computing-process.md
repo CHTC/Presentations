@@ -4,7 +4,7 @@ presenter: "Miron Livny"
 event: "European HTCondor Workshop 2026"
 date: '2026-10-02'
 publish_on: []
-description: null
+description: Miron Livny discusses how experience with high throughput computing can be leveraged to materialize the potential of inference and machine learning based workflows.
 image: null
 keywords:
   - HTCondor
