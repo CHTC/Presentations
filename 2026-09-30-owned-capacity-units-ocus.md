@@ -4,7 +4,7 @@ presenter: "Greg Thain"
 event: "European HTCondor Workshop 2026"
 date: '2026-09-30'
 publish_on: []
-description: null
+description: Greg Thain presents on new AP scheduling mechanisms, including Owned Capacity Units, Slot Bundles, and AP Controllers.
 image: null
 keywords:
   - HTCondor
