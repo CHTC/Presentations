@@ -4,7 +4,7 @@ presenter: "Todd Tannenbaum"
 event: "European HTCondor Workshop 2026"
 date: '2026-09-30'
 publish_on: []
-description: null
+description: Todd Tannenbaum presents on the new self-service HPC Annex, which can allow the AP to utilize Slurm resources.
 image: null
 keywords:
   - Admin Tools
