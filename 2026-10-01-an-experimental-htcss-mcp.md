@@ -4,7 +4,7 @@ presenter: "Brian Paul Bockelman"
 event: "European HTCondor Workshop 2026"
 date: '2026-10-01'
 publish_on: []
-description: null
+description: Brian Bockelman discusses interfaces HTCondor, and groups that are being left out by the existing suite of options, such as Non-Python, Web, and AI users. He follows up by presenting the HTCondor API Server, meant to address these gaps.
 image: null
 keywords:
   - AI
