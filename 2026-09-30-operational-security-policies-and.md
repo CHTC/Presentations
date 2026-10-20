@@ -4,7 +4,7 @@ presenter: "Brian Paul Bockelman, Chris Brew"
 event: "European HTCondor Workshop 2026"
 date: '2026-09-30'
 publish_on: []
-description: null
+description: Brian Bockelman presents on recent security vulnerabilities that have affected CHTC and the community at large, with a focus on the operational security team's response, and methods for reducing risk.
 image: null
 keywords:
   - Cybersecurity
