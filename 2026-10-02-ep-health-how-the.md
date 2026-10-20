@@ -4,7 +4,7 @@ presenter: "Greg Thain"
 event: "European HTCondor Workshop 2026"
 date: '2026-10-02'
 publish_on: []
-description: null
+description: Greg Thain presents on EP health, discussing how Startd Health is now first class.
 image: null
 keywords:
   - Admin Tools
