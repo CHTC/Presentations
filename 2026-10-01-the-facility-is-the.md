@@ -12,7 +12,8 @@ description: |
   The platform provides a common gateway for MCP services while handling authentication, authorization, and credential brokering separately from the individual services. This allows agents to work with resources such as Rucio, Jupyter, filesystems, and HTCondor without directly handling users' long-lived credentials.
 
   Using examples from the ATLAS Analysis Facility and work extending this approach across experiments, I will discuss what works today, the infrastructure challenges that remain, and what an MCP-based approach could mean for making agentic computing portable across scientific facilities.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Stark.png
 keywords:
   - AI
   - HTCondor
