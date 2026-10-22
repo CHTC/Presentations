@@ -12,7 +12,8 @@ description: |
   The web interface allows administrators to explore job and worker details, visualize usage statistics, and correlate information that would otherwise be scattered across multiple tools or command-lines results. While some dashboards overlap with traditional monitoring solutions, BBQ focuses on operational workflows and scheduler-specific information rather than infrastructure metrics alone. The same interface also exposes our Slurm cluster, for which additional information and management features are available.
 
   This presentation will introduce the architecture of BBQ, discuss the design choices behind the data collection pipeline, and demonstrate how the tool simplifies daily administration of production clusters comprising several hundred compute nodes. We will also present ongoing work toward integrating administrative actions directly into the interface, such as draining nodes or temporarily blocking users.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Cochard.png
 keywords:
   - Admin Tools
   - HTCondor
