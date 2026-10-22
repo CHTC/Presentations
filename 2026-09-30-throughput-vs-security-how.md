@@ -10,7 +10,8 @@ description: |
   Details on how the CERN central HTCondor pool manages the response to security vulnerabilities. Covering isolation, draining, automation and triage.
 
   However by the time I finish writing this abstract it feels like there might be another LRE, so do we need a rethink?
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Jones.png
 keywords:
   - Cybersecurity
   - HTCondor
