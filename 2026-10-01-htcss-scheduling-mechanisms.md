@@ -5,7 +5,8 @@ event: "European HTCondor Workshop 2026"
 date: '2026-10-01'
 publish_on: []
 description: Greg Thain goes over the many different scheduling mechanisms that exist for HTCSS, including functionality of the EP, CM, and AP.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Thain-Scheduling.png
 keywords:
   - Admin Tools
   - HTCondor
