@@ -5,7 +5,8 @@ event: "European HTCondor Workshop 2026"
 date: '2026-10-02'
 publish_on: []
 description: Miron Livny discusses how experience with high throughput computing can be leveraged to materialize the potential of inference and machine learning based workflows.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Livny-Evolving.png
 keywords:
   - HTCondor
 youtube_video_id: null
