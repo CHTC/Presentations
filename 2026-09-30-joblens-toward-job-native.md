@@ -8,7 +8,8 @@ description: |
   Modern HTCondor deployments predominantly rely on node-centric monitoring paradigms, whereas users and operators typically reason about performance anomalies, failures, and resource efficiency at the granularity of individual jobs. To bridge this semantic gap, we present JobLens, a lightweight, job-native observability framework that organizes runtime metrics and system events around scheduler-visible jobs rather than isolated machines. Its architecture integrates eBPF-based job discovery, rule-driven job capture, hot-pluggable collectors, and a streaming data pipeline to gather CPU, memory, I/O, network, and system-level signals with minimal overhead in production environments.
 
   We envision JobLens evolving from a passive monitoring tool into an observation-driven runtime intelligence layer for HTCondor clusters. By correlating scheduler decisions, hardware locality, and process–resource interactions, JobLens establishes a foundation for fine-grained job-level diagnosis, power attribution, workload characterization, and feedback-aware scheduling. This paradigm shifts cluster observability beyond post-hoc metric inspection toward a continuously updated digital representation of job execution dynamics—from matching and dispatching to runtime behavior.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Wang.png
 keywords:
   - Admin Tools
   - HTCondor
