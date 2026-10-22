@@ -5,7 +5,8 @@ event: "European HTCondor Workshop 2026"
 date: '2026-10-02'
 publish_on: []
 description: Greg Thain presents on EP health, discussing how Startd Health is now first class.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Thain-EPHealth.png
 keywords:
   - Admin Tools
   - HTCondor
