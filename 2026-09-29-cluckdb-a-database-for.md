@@ -5,7 +5,8 @@ event: "European HTCondor Workshop 2026"
 date: '2026-09-29'
 publish_on: []
 description: Brian Bockelman discusses HTCondorDB, an SQL database for ClassAds. He explains some of the associated challenges, gives a walkthrough of the features, and does a demo.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Bockelman-CluckDB.png
 keywords:
   - Admin Tools
   - HTCondor
