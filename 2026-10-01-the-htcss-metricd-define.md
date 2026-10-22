@@ -5,7 +5,8 @@ event: "European HTCondor Workshop 2026"
 date: '2026-10-01'
 publish_on: []
 description: Todd Tannenbaum presents on the HTCSS MetricD, including engine configuration, with several examples.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Tannenbaum-MetricD.png
 keywords:
   - Admin Tools
   - HTCondor
