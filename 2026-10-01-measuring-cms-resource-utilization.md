@@ -10,7 +10,8 @@ description: |
   We could already measure efficiency from the payload job and site batch system perspectives, but neither of these gave us the information we needed to evaluate and expand advanced strategies to improve efficiency at the pilot level, such as overloading.
 
   In this contribution we share how we leverage HTCondor activity logs to fill this gap, producing a record of resource usage for each completed pilot and aggregating them via CERN's monitoring infrastructure. We conclude with how this new perspective has been supporting our efforts to improve pilot efficiency in CMS.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Simas.png
 keywords:
   - HTCondor
 youtube_video_id: null

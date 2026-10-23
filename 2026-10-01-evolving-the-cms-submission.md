@@ -10,7 +10,8 @@ description: |
   This contribution presents recent developments in the CMS SI, focused on improving resource utilization and scheduling efficiency. In particular, we discuss the deployment of high-IO auxiliary slots to reduce slot fragmentation caused by bursts of short single-core workloads, and the introduction of controlled pilot overloading techniques aimed at recovering otherwise unused CPU cycles from inefficient or I/O-bound payloads. These strategies have shown systematic improvements in overall CPU efficiency while preserving stable SI operations..
 
   The talk will also cover the continued evolution of CMS resource integration strategies for heterogeneous computing environments, including GPUs, ARM processors, and HPC facilities, together with broader CMS plans for the next-generation Workflow Management system designed for HL-LHC-scale workflows and increasingly dynamic computing resources. Together, these developments represent important steps toward a more scalable, sustainable, and efficient CMS computing infrastructure, as required by the HL-LHC program.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Mascheroni.png
 keywords:
   - HTCondor
 youtube_video_id: null

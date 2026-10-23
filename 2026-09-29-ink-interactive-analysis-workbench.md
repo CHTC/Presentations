@@ -10,7 +10,8 @@ description: |
   Key features of INK include a pluggable job-type framework that makes new interactive applications easy to add, a session-based reverse proxy for secure browser access to running jobs, and a portable, site-agnostic core with IHEP-specific logic isolated as plugins.
 
   Building on this platform, we have been exploring how AI — large language models in particular — can be delivered on HTCondor. This talk presents our integration of AI coding assistants (OpenCode, OpenChamber) as first-class interactive job types, along with the design choices for running LLM-based tools securely on shared clusters. We will share the architecture, our experience, and the practical challenges of bringing AI applications into a production HTCondor environment.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Shi.png
 keywords:
   - HTCondor
 youtube_video_id: null

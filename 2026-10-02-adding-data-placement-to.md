@@ -5,7 +5,8 @@ event: "European HTCondor Workshop 2026"
 date: '2026-10-02'
 publish_on: []
 description: Brian Bockelman discusses the Data Access Point, the in-development upgrade of the AP focused on data ingress, egress, and management into the ecosystem. He discusses the importance of such architecture to high throughput computing, the vision for development, and current progress.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Bockelman-DataPlacement.png
 keywords:
   - Data
   - HTCondor

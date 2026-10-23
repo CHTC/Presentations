@@ -8,7 +8,8 @@ description: |
   This presentation aims to give an update on the global security landscape from the past months. The global situation has introduced novel challenges for security teams everywhere. What's more, the worrying trend of new security vulnerabilities does not seem to slow down.
 
   We present some interesting cases that CERN and the wider HEP community dealt with in the last year, mitigations and best practices for batch / grid sites to prevent possible attacks in the future and preparations for when inevitably an attacker breaks in.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Valsan.png
 keywords:
   - Cybersecurity
   - HTCondor

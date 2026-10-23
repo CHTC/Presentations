@@ -5,7 +5,8 @@ event: "European HTCondor Workshop 2026"
 date: '2026-10-01'
 publish_on: []
 description: Greg Thain presents on functional distributed programming, including some history of the field, and lessons and takeaways.
-image: null
+image:
+  path: https://raw.githubusercontent.com/CHTC/presentations/main/images/European-Condor-Week-2026-Images/EuropeanCondorWeek2026-Thain-FunctionalProgramming.png
 keywords:
   - Admin Tools
   - HTCondor
